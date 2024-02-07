@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container{
+    background-color:aqua;
+    background-size:cover;
+    height:105vh;
+}
+
+.img1{
+    color:greenyellow;
+    font-size:25px;
+    font-weight:500;
+    margin-left:5%;
+    height:8vh;
+    margin:1px;
+    width:8vw;
+ }
+
+#navitem1 {
+    color: #ff697e;
+    font-family: "Roboto";
+    font-weight:400;
+    font-size:18px;
+}
+
+#navitem2 {
+    color:#ff697e ;
+    font-family: "Roboto";
+    font-weight:400;
+    font-size:18px;
+}
+
+#navitem3 {
+    color: #ff697e;
+    font-family: "Roboto";
+    font-weight:400;
+    font-size:18px;
+}
+
+#navitem4 {
+    color: #ff697e;
+    font-family: "Roboto";
+    font-weight:400;
+    font-size:18px;
+}
+
+#navitem5 {
+    color: #ff697e;
+    font-family: "Roboto";
+    font-weight:400;
+    font-size:18px;
+}
+
+.background-image{
+    background-image:linear-gradient(to bottom right, #FF3E9D,#0E1F40,#0E1F40, #0E1F40),url("bharat1.jpg");
+    background-size:cover;
+    border-radius:32px;
+    height:91vh;
+    margin:5px;
+}
+.main-heading{
+    color:#fff;
+    font-family:"caveart";
+    font-size:40px;
+    font-weight:800;
+}
+
+.paragraph{
+    color:#fff;
+    font-family:"caveart";
+    font-size:32px;
+    font-weight:600;
+}
+.paragraph1{
+    color:#fff;
+    font-family:"caveart";
+    font-size:20px;
+    font-weight:400;
+}
+
+.btn1{
+    color:#fff;
+    background-color:burlywood;
+    border-radius:4px;
+    border-color:#323f4b;
+    font-family:"Roboto";
+    font-size:20px;
+    margin:15px;
+}
+.btn2{
+    color:#fff;
+    background-color:#bc64ffe5;
+    border-radius:4px;
+    border-color:#323f4b;
+    font-family:"Roboto";
+    font-size:20px;
+}
+
+.img{
+    height:400px;
+    width:350px;
+    border-radius:38px;
+}
+.icon-container {
+    background-color:transparent;
+    border-color:white;
+    border-style:solid;
+    border-radius: 40px;
+    color:#fff;
+    font-size:18px;
+    margin:6px;
+    padding-top: 16px;
+    padding-bottom: 9px;
+    padding-right: 12px;
+    padding-left: 16px;
+    border-width:0.6px;
+}
+.hline{
+    background-color:grey;
+    height:1vh;
+    background-size:cover;
+}
+
+.about-section{
+    background-image:linear-gradient(to top left,#664caf , #c4e0e5,#664caf , #c4e0e5,#664caf , #c4e0e5);
+    background-size:cover;
+    height:80vh;
+}
+
+.about-heading{
+    color:#ffffff;
+    font-size:32px;
+    font-family:"Caveart";
+    font-weight:700;
+}
+
+.about-para{
+    color:azure;
+    font-size:22px;
+    font-family:"Caveart";
+    font-weight:400;
+}
+.img2{
+    height:350px;
+    width:300px;
+    padding-top :60px;
+    border-radius:38px;
+    border-top-left-radius: 8px;
+}
+.skill-section{
+    background-image:linear-gradient(to left,#4c77af , #c4e0e5,#4c77af,#c4e0e5,#4c77af,#c4e0e5,#4c77af);
+    background-size:cover;
+    height:100vh;
+}
+
+.skill-heading{
+    color:#fff;
+    font-size:32px;
+    font-family:"Caveart";
+    font-weight:700;
+}
+
+.card{
+    height:30vh;
+    width:15vw;
+    border-radius:8px;
+    background-color:#323f4b;
+}
+
+.img3{
+    width: 75px;
+   height: 75px;
+}
+
+.head{
+    color:#fff;
+    font-size:25px;
+}
+.projects-section {
+    background-image:linear-gradient( to left,#FDFCFB , #E2D1C3,#FDFCFB , #E2D1C3);
+}
+.card-container {
+   background-color: #323f4b;
+   border-radius: 8px;
+   width:400px;
+}
+
+.img4 {
+   width: 100%;
+   border-radius:16px;
+}
+
+.p {
+   font-family: "Roboto";
+   font-size: 15px;
+   color: #E2D1C3;
+   font-weight: 500;
+}
+
+.card-heading {
+   font-family: "Roboto";
+   font-size: 25px;
+   color: white;
+   font-weight: 500;
+}
+
+.para {
+   font-family: "Roboto";
+   font-size: 18px;
+   color:#E2D1C3;
+}
+
+.projects-card-link {
+   color: #cced00;
+   font-family: "Roboto";
+   font-size: 14px;
+   font-weight: bold;
+}
+
+.follow-section{
+    background-image:radial-gradient(#FDFCFB , #E2D1C3);
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.para1 {
+    font-family: "Roboto";
+    color:#323f4b;
+    font-size: 14px;
+}
+
+.heading2{
+    font-size:20px;
+    color:orangered;
+    font-weight: 500;
+}
+
